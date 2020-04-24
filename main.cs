@@ -1,7 +1,7 @@
 using System;
 public class FibonacciExample
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         int n1 = 0, n2 = 1, n3, i, number;
         Console.Write("Enter the number of elements: ");
